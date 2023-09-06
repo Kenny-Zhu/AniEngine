@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aniengine/static/css/main.0a6919db.css",
+    "main.js": "/aniengine/static/js/main.0918f863.js",
+    "index.html": "/aniengine/index.html",
+    "main.0a6919db.css.map": "/aniengine/static/css/main.0a6919db.css.map",
+    "main.0918f863.js.map": "/aniengine/static/js/main.0918f863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6919db.css",
+    "static/js/main.0918f863.js"
+  ]
+}
